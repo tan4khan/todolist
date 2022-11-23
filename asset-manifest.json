@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tan4khan/todolist.git/static/css/main.3509a112.css",
+    "main.js": "/tan4khan/todolist.git/static/js/main.94f9a94f.js",
+    "static/js/787.6cb4b823.chunk.js": "/tan4khan/todolist.git/static/js/787.6cb4b823.chunk.js",
+    "static/media/to-do-list.png": "/tan4khan/todolist.git/static/media/to-do-list.2d38a3e520012d8f4526.png",
+    "index.html": "/tan4khan/todolist.git/index.html",
+    "main.3509a112.css.map": "/tan4khan/todolist.git/static/css/main.3509a112.css.map",
+    "main.94f9a94f.js.map": "/tan4khan/todolist.git/static/js/main.94f9a94f.js.map",
+    "787.6cb4b823.chunk.js.map": "/tan4khan/todolist.git/static/js/787.6cb4b823.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3509a112.css",
+    "static/js/main.94f9a94f.js"
+  ]
+}
